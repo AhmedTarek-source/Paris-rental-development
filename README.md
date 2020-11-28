@@ -1,7 +1,7 @@
 # Airbnb-Paris-rental-development
 The project is about rental price developments in Paris. The data is imported from Airbnb. Two files were imported (Listings.csv with 66000+ data (rows) and 75 columns) (calendar.csv with 24000000+ data (rows) and 7 columns).
 Objectives: 
--	Exploration of data and statistical analysis on R
+-	Exploration of data and statistical analysis 
 -	Number of listing by neighborhood
 -	Property types in Paris (Apartment and home , Private room, Shared room)
 -	Accommodates (Number of people) per number of listings
